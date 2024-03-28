@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/iserverwebsite/static/css/main.f855e6bc.css",
+    "main.js": "/iserverwebsite/static/js/main.21d04f17.js",
+    "static/media/main.gif": "/iserverwebsite/static/media/main.c6ccb011eff492fbf2a7.gif",
+    "static/media/webdev.png": "/iserverwebsite/static/media/webdev.9202572f2e33ac912516.png",
+    "static/media/service-mob.png": "/iserverwebsite/static/media/service-mob.53e02202cab623a4e7ab.png",
+    "static/media/office.png": "/iserverwebsite/static/media/office.90cbeccb6b893aafebfd.png",
+    "static/media/resoe.png": "/iserverwebsite/static/media/resoe.6899ce220c3b3b242738.png",
+    "static/media/resoj.png": "/iserverwebsite/static/media/resoj.60507464579882357bc6.png",
+    "static/media/resof.png": "/iserverwebsite/static/media/resof.76cb7fa7abb84474462f.png",
+    "static/media/resoh.png": "/iserverwebsite/static/media/resoh.c4cc672d8fa4ba4cd9f6.png",
+    "static/media/resoa.png": "/iserverwebsite/static/media/resoa.c53d16ca6d767e61370e.png",
+    "static/media/girl.png": "/iserverwebsite/static/media/girl.dcfc920f86ec57c1a765.png",
+    "static/media/resoi.png": "/iserverwebsite/static/media/resoi.e1f7b40b1734e564899c.png",
+    "static/media/resoc.png": "/iserverwebsite/static/media/resoc.e73707dcbfc725397c40.png",
+    "static/media/resod.png": "/iserverwebsite/static/media/resod.1b1fb82d220f0091ecc0.png",
+    "static/media/resob.png": "/iserverwebsite/static/media/resob.953d0b0928ccb8c4c54c.png",
+    "static/media/ab2.gif": "/iserverwebsite/static/media/ab2.02c7fb06f0e1d2d2db98.gif",
+    "static/media/accord.gif": "/iserverwebsite/static/media/accord.99bcd3edf5b4c42fc6fa.gif",
+    "static/media/resog.png": "/iserverwebsite/static/media/resog.4fa2bd2a8c3b054bacab.png",
+    "static/media/insta.png": "/iserverwebsite/static/media/insta.79535458a8a6d88f81d4.png",
+    "static/media/governance.png": "/iserverwebsite/static/media/governance.8fd6653d0ee085b3211a.png",
+    "static/media/education.png": "/iserverwebsite/static/media/education.8c6fd03b844cf11717db.png",
+    "static/media/technology.png": "/iserverwebsite/static/media/technology.e1ca156b9787d9bc36c2.png",
+    "static/media/twit.png": "/iserverwebsite/static/media/twit.c6e48e60f856cb822273.png",
+    "static/media/logo.png": "/iserverwebsite/static/media/logo.477b26cdbfcbe59e54ac.png",
+    "static/media/instagram.png": "/iserverwebsite/static/media/instagram.bc603acad2a8cb3bd098.png",
+    "static/media/you.png": "/iserverwebsite/static/media/you.b4f2b64af1b614ce26dc.png",
+    "static/media/twitter.png": "/iserverwebsite/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/link.png": "/iserverwebsite/static/media/link.f249b38224ca41a0b909.png",
+    "index.html": "/iserverwebsite/index.html",
+    "main.f855e6bc.css.map": "/iserverwebsite/static/css/main.f855e6bc.css.map",
+    "main.21d04f17.js.map": "/iserverwebsite/static/js/main.21d04f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.21d04f17.js"
+  ]
+}
